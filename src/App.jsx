@@ -11,7 +11,7 @@ function App() {
   
     
     <>
-    <h1>Vite + React</h1>
+    <h1>Vite + React + Vue</h1>
     <Friends></Friends>
     <Users></Users>
     <Team></Team>
